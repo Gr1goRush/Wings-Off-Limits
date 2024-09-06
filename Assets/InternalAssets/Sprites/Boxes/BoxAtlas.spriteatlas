@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BoxAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f686920a11fca104a9fcc8a0fc51f29b, type: 3}
+    - {fileID: 2800000, guid: cc64c0fb121e58a4595df19f290a69b0, type: 3}
+    - {fileID: 2800000, guid: 5662c9a6de6487b4f99e6ba065f8a084, type: 3}
+    - {fileID: 2800000, guid: a95f8d473a0d4364cb44e10bfd30355f, type: 3}
+    - {fileID: 2800000, guid: aa62f65be4c22534d96164a35824c9b0, type: 3}
+    - {fileID: 2800000, guid: 36822a4d19715694780a461b2b43581b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 5662c9a6de6487b4f99e6ba065f8a084: 21300000
+    - a95f8d473a0d4364cb44e10bfd30355f: 21300000
+    - f686920a11fca104a9fcc8a0fc51f29b: 21300000
+    - aa62f65be4c22534d96164a35824c9b0: 21300000
+    - cc64c0fb121e58a4595df19f290a69b0: 21300000
+    - 36822a4d19715694780a461b2b43581b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5662c9a6de6487b4f99e6ba065f8a084, type: 3}
+  - {fileID: 21300000, guid: a95f8d473a0d4364cb44e10bfd30355f, type: 3}
+  - {fileID: 21300000, guid: f686920a11fca104a9fcc8a0fc51f29b, type: 3}
+  - {fileID: 21300000, guid: aa62f65be4c22534d96164a35824c9b0, type: 3}
+  - {fileID: 21300000, guid: cc64c0fb121e58a4595df19f290a69b0, type: 3}
+  - {fileID: 21300000, guid: 36822a4d19715694780a461b2b43581b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - IronBox1
+  - IronBox2
+  - ImportantBox1
+  - WoodBox1
+  - InmportantBox2
+  - WoodBox2
+  m_RenderDataMap: {}
+  m_Tag: BoxAtlas
+  m_IsVariant: 0
